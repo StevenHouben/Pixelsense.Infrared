@@ -1,0 +1,9 @@
+C:\Users\pitlab\Desktop\StickyPinReader\Pixelsense.Infrared\bin\Debug\Pixelsense.Infrared.dll
+C:\Users\pitlab\Desktop\StickyPinReader\Pixelsense.Infrared\bin\Debug\Pixelsense.Infrared.pdb
+C:\Users\pitlab\Desktop\StickyPinReader\Pixelsense.Infrared\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pitlab\Desktop\StickyPinReader\Pixelsense.Infrared\obj\Debug\Pixelsense.Infrared.dll
+C:\Users\pitlab\Desktop\StickyPinReader\Pixelsense.Infrared\obj\Debug\Pixelsense.Infrared.pdb
+C:\Users\pitlab\Desktop\StickyPinReader\Pixelsense.Infrared\bin\Debug\Emgu.CV.pdb
+C:\Users\pitlab\Desktop\StickyPinReader\Pixelsense.Infrared\bin\Debug\Emgu.CV.xml
+C:\Users\pitlab\Desktop\StickyPinReader\Pixelsense.Infrared\bin\Debug\Emgu.Util.pdb
+C:\Users\pitlab\Desktop\StickyPinReader\Pixelsense.Infrared\bin\Debug\Emgu.Util.xml
